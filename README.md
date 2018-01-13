@@ -30,6 +30,7 @@ nice visualization code for interactive charts.
 [2] http://cnets.indiana.edu/wp-content/uploads/conover_prediction_socialcom_pdfexpress_ok_version.pdf
 [3] https://www.youtube.com/watch?v=lPr60pexvEM
 [4] https://github.com/taspinar/twitterscraper
+[5] https://github.com/taspinar/twitterscraper/issues/46 (geofiltering of Twitter users)
 
 Attributions:
 
